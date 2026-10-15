@@ -1,7 +1,35 @@
-# Kubernetes Demo — Reserved Scaffold
+# Kubernetes Demo · Project Scaffold
 
-This repository preserves the placeholder named `kub-demo` from [aarish-io/kub-demo](https://github.com/aarish-io/kub-demo) in the [kuvlay portfolio](https://github.com/kuvlay), as requested by the source account owner.
+A reserved repository for a future Kubernetes learning project. It currently contains documentation only.
 
-The source repository was empty at the time of review: it had no commits or project files. This copy contains only this explanatory README. It does not claim a completed Kubernetes implementation, a deployment, or a tested application.
+[Portfolio](https://github.com/kuvlay)
 
-Future code, setup instructions, and verification results can be added when the project is implemented.
+## Current status
+
+| Component | Status |
+| --- | --- |
+| Application code | Not implemented |
+| Container image or Dockerfile | Not implemented |
+| Kubernetes manifests | Not implemented |
+| Cluster deployment | Not performed |
+| Automated validation | Not implemented |
+
+## Local use
+
+```bash
+git clone https://github.com/kuvlay/kub-demo.git
+cd kub-demo
+```
+
+There is no executable application, configuration, or deployment command yet. No Kubernetes functionality or completed deployment is claimed.
+
+## Planned documentation
+
+When implementation is added, this README can describe the application, image build, Deployment and Service manifests, local-cluster setup, and reproducible verification steps. These are future tasks, not current features.
+
+<details>
+<summary>Credits and project history</summary>
+
+Recreates the empty [aarish-io/kub-demo](https://github.com/aarish-io/kub-demo) placeholder at the source account owner's request. The source had no commits or project files to preserve.
+
+</details>
